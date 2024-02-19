@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ title }} - {{ subtitle }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="{{ base_path }}/css/style.css">
+</head>
+
+<body id="{{ slug }}">
+
+<nav>
+<section>
+    <span class="home">
+        <a href="{{ base_path }}/">Home</a>
+    </span>
+    <span class="links">
+        <a href="{{ base_path }}/blog/">Blog</a>
+        <a href="{{ base_path }}/news/">News</a>
+        <a href="{{ base_path }}/contact/">Contact</a>
+        <a href="{{ base_path }}/about/">About</a>
+    </span>
+</section>
+</nav>
+
+<main>
+{{ content }}
+</main>
+
+<footer>
+<section>
+<p>&copy; {{ current_year }} Lorem Ipsum</p>
+<p>
+    <a href="https://twitter.com/arthurbrady" data-testid="ab_twitter_url">Twitter</a>
+    <a href="https://github.com/bradyarthur" data-testid="ab_github_url">GitHub</a>
+    <a href="https://www.example.com/" data-testid="ab_example_url">Example</a>
+    <a href="https://www.cypress.io/" data-testid="ab_cy_url">Cypress</a>
+    <a href="https://python.langchain.com/" data-testid="ab_lang_chain_url">LangChain</a>
+    <a href="https://pytest.org/" data-testid="ab_pytest_url">Py Test</a>
+</p>
+</section>
+</footer>
+
+</body>
+</html>
