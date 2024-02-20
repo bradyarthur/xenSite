@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "langchain": "^0.1.19"
+    "langchain": "^0.1.19",
+    "@langchain/google-genai": "^0.0.2"
+  },
+  "resolutions": {
+    "@langchain/core": "0.1.5"
   }
 }
