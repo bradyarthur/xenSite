@@ -34,10 +34,10 @@
     uuid "^9.0.0"
     zod "^3.22.3"
 
-"@langchain/core@0.1.29", "@langchain/core@~0.1.0", "@langchain/core@~0.1.13", "@langchain/core@~0.1.29":
-  version "0.1.29"
-  resolved "https://registry.yarnpkg.com/@langchain/core/-/core-0.1.29.tgz#4337a9db35ee0281af3d50d6fbb9c84c5dd6be77"
-  integrity sha512-MVrrb2J1Y08Yy6JnRDy/C/yxZj2PvO6wNkMs8657Q345SHs8iCbRX7Dy7rC69isUrpMjR7PvADFxV9rGvdoMBg==
+"@langchain/core@0.1.30", "@langchain/core@~0.1.0", "@langchain/core@~0.1.13", "@langchain/core@~0.1.29":
+  version "0.1.30"
+  resolved "https://registry.yarnpkg.com/@langchain/core/-/core-0.1.30.tgz#6f9b5d3cfe9bb447f94bc8c71be1527b9decd302"
+  integrity sha512-3oqEKgwe7U/efieZrCC6BLwOHm4YPj27mRNBZLaB5BwPh3a7gXIevxEnbjN3o5j9kJqc5acG7nn35h7Wkrf2Ag==
   dependencies:
     ansi-styles "^5.0.0"
     camelcase "6"
