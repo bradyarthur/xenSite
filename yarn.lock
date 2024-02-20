@@ -34,21 +34,22 @@
     uuid "^9.0.0"
     zod "^3.22.3"
 
-"@langchain/core@0.1.5", "@langchain/core@~0.1.0", "@langchain/core@~0.1.13", "@langchain/core@~0.1.29":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@langchain/core/-/core-0.1.5.tgz#f63a2cd5a18fe68806d0421d00824f0dcdd68a4b"
-  integrity sha512-5RdZpbadMYXTKdZrWZ6JeYT09BZssprg+komE+FbXxW+kbGE0QJJaj8dnzPNdzVCAhDLQQTOV2CAM+vOLsaxzQ==
+"@langchain/core@0.1.29", "@langchain/core@~0.1.0", "@langchain/core@~0.1.13", "@langchain/core@~0.1.29":
+  version "0.1.29"
+  resolved "https://registry.yarnpkg.com/@langchain/core/-/core-0.1.29.tgz#4337a9db35ee0281af3d50d6fbb9c84c5dd6be77"
+  integrity sha512-MVrrb2J1Y08Yy6JnRDy/C/yxZj2PvO6wNkMs8657Q345SHs8iCbRX7Dy7rC69isUrpMjR7PvADFxV9rGvdoMBg==
   dependencies:
     ansi-styles "^5.0.0"
     camelcase "6"
     decamelize "1.2.0"
     js-tiktoken "^1.0.8"
-    langsmith "~0.0.48"
+    langsmith "~0.1.1"
     ml-distance "^4.0.0"
     p-queue "^6.6.2"
     p-retry "4"
     uuid "^9.0.0"
-    zod "^3.22.3"
+    zod "^3.22.4"
+    zod-to-json-schema "^3.22.3"
 
 "@langchain/google-genai@^0.0.2":
   version "0.0.2"
@@ -301,17 +302,6 @@ langchainhub@~0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/langchainhub/-/langchainhub-0.0.8.tgz#fd4b96dc795e22e36c1a20bad31b61b0c33d3110"
   integrity sha512-Woyb8YDHgqqTOZvWIbm2CaFDGfZ4NTSyXV687AG4vXEfoNo7cGQp7nhl7wL3ehenKWmNEmcxCLgOZzW8jE6lOQ==
-
-langsmith@~0.0.48:
-  version "0.0.70"
-  resolved "https://registry.yarnpkg.com/langsmith/-/langsmith-0.0.70.tgz#797be2b26da18843a94a802b6a73c91b72e8042b"
-  integrity sha512-QFHrzo/efBowGPCxtObv7G40/OdwqQfGshavMbSJtHBgX+OMqnn4lCMqVeEwTdyue4lEcpwAsGNg5Vty91YIyw==
-  dependencies:
-    "@types/uuid" "^9.0.1"
-    commander "^10.0.1"
-    p-queue "^6.6.2"
-    p-retry "4"
-    uuid "^9.0.0"
 
 langsmith@~0.1.1:
   version "0.1.1"

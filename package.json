@@ -4,6 +4,6 @@
     "@langchain/google-genai": "^0.0.2"
   },
   "resolutions": {
-    "@langchain/core": "0.1.5"
+    "@langchain/core": "0.1.29"
   }
 }
