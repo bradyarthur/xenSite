@@ -2,7 +2,7 @@ import unittest
 import shutil
 import os
 
-import makesite
+# import makesite
 from test import path
 
 
