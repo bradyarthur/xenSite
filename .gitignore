@@ -7,3 +7,4 @@ htmlcov
 .DS_Store
 venv
 node_modules
+surefire-reports
