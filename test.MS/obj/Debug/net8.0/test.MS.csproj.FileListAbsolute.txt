@@ -110,3 +110,7 @@ C:\newCode\xenSite\test.MS\obj\Debug\net8.0\refint\test.MS.dll
 C:\newCode\xenSite\test.MS\obj\Debug\net8.0\test.MS.pdb
 C:\newCode\xenSite\test.MS\obj\Debug\net8.0\test.MS.genruntimeconfig.cache
 C:\newCode\xenSite\test.MS\obj\Debug\net8.0\ref\test.MS.dll
+C:\newCode\xenSite\test.MS\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\newCode\xenSite\test.MS\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\newCode\xenSite\test.MS\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\newCode\xenSite\test.MS\bin\Debug\net8.0\WebDriver.dll
