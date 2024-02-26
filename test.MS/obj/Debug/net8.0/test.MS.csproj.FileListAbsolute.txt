@@ -114,3 +114,5 @@ C:\newCode\xenSite\test.MS\bin\Debug\net8.0\selenium-manager\linux\selenium-mana
 C:\newCode\xenSite\test.MS\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
 C:\newCode\xenSite\test.MS\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
 C:\newCode\xenSite\test.MS\bin\Debug\net8.0\WebDriver.dll
+c:\newCode\xenSite\test.MS\bin\Debug\net8.0\nunit.framework.dll
+c:\newCode\xenSite\test.MS\bin\Debug\net8.0\nunit.framework.legacy.dll
