@@ -1074,11 +1074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\newCode\\xenSite\\ms.test\\ms.test.csproj",
-      "projectName": "ms.test",
-      "projectPath": "C:\\newCode\\xenSite\\ms.test\\ms.test.csproj",
+      "projectUniqueName": "C:\\newCode\\xenSite\\test.MS\\test.MS.csproj",
+      "projectName": "test.MS",
+      "projectPath": "C:\\newCode\\xenSite\\test.MS\\test.MS.csproj",
       "packagesPath": "C:\\Users\\brady\\.nuget\\packages\\",
-      "outputPath": "C:\\newCode\\xenSite\\ms.test\\obj\\",
+      "outputPath": "C:\\newCode\\xenSite\\test.MS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brady\\AppData\\Roaming\\NuGet\\NuGet.Config",

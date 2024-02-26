@@ -1,4 +1,4 @@
-namespace ms.test;
+namespace test.MS;
 
 [TestClass]
 public class UnitTest1
