@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\newCode\\xenSite\\test.MS\\test.MS.csproj": {}
+    "C:\\newCode\\xenSite\\test.MS\\test.MS.csproj": {}
   },
   "projects": {
-    "c:\\newCode\\xenSite\\test.MS\\test.MS.csproj": {
+    "C:\\newCode\\xenSite\\test.MS\\test.MS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\newCode\\xenSite\\test.MS\\test.MS.csproj",
+        "projectUniqueName": "C:\\newCode\\xenSite\\test.MS\\test.MS.csproj",
         "projectName": "test.MS",
-        "projectPath": "c:\\newCode\\xenSite\\test.MS\\test.MS.csproj",
+        "projectPath": "C:\\newCode\\xenSite\\test.MS\\test.MS.csproj",
         "packagesPath": "C:\\Users\\brady\\.nuget\\packages\\",
-        "outputPath": "c:\\newCode\\xenSite\\test.MS\\obj\\",
+        "outputPath": "C:\\newCode\\xenSite\\test.MS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brady\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,18 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[122.0.6261.6901, )"
             },
             "coverlet.collector": {
               "target": "Package",
