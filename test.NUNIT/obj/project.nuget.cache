@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bpIyoGXfmRiMkWKhVT8ZKxf8+UwzeKGSZQuuvhVDvg3nSf2iqYSeRsPinx2bHaEk7xeqNCN/qhZvQOH3m8oueA==",
+  "dgSpecHash": "G8SiM3iAgztXDcPm9U0t842JZN/HQkswbCQ+ZjuBVpOXNPtCg4aSz19lmxJ82xRK2gS8fJEgx1StFTPTsuX+xg==",
   "success": true,
   "projectFilePath": "C:\\newCode\\xenSite\\test.NUNIT\\test.NUNIT.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,8 @@
     "C:\\Users\\brady\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
     "C:\\Users\\brady\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\brady\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\selenium.webdriver.chromedriver\\122.0.6261.9400\\selenium.webdriver.chromedriver.122.0.6261.9400.nupkg.sha512",
     "C:\\Users\\brady\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
