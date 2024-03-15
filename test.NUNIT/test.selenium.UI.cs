@@ -18,7 +18,7 @@ public class SeleniumTests
     [Test]
     public void TestTitle()
     {
-        ClassicAssert.AreEqual(1, 1);
+        //ClassicAssert.AreEqual(1, 1);
         Assert.That(driver.Title, Is.EqualTo("Example Domain"));
     }
 

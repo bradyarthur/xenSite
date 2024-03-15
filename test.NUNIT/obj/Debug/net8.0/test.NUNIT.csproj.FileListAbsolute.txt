@@ -1,5 +1,8 @@
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\testhost.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\testhost.exe
+C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\NUnit3.TestAdapter.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\nunit.engine.dll
@@ -22,6 +25,7 @@ C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\NuGet.Frameworks.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\nunit.framework.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\WebDriver.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -99,7 +103,3 @@ C:\newCode\xenSite\test.NUNIT\obj\Debug\net8.0\refint\test.NUNIT.dll
 C:\newCode\xenSite\test.NUNIT\obj\Debug\net8.0\test.NUNIT.pdb
 C:\newCode\xenSite\test.NUNIT\obj\Debug\net8.0\test.NUNIT.genruntimeconfig.cache
 C:\newCode\xenSite\test.NUNIT\obj\Debug\net8.0\ref\test.NUNIT.dll
-C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
-C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
-C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
-C:\newCode\xenSite\test.NUNIT\bin\Debug\net8.0\WebDriver.dll
